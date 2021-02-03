@@ -8,10 +8,10 @@ The dataset was retrieved from [Kaggle](https://www.kaggle.com/yannisp/uber-pick
 
 ## Research Objective
 The goal for this research project is to analyze the pattern of the number of Uber pickups in correlation with various features to provide insights to help Uber make business decisions and resource allocations. We also aim to predict future pickups based on attainable future features. With this goal in mind, we proposed and trained the following models:
-* [Linear Regression](https://github.com/cc6580/NYC_uber_pickup/blob/main/group11_code_data/LinearReg_ElasticNet.ipynb)
-* [Elastic Net](https://github.com/cc6580/NYC_uber_pickup/blob/main/group11_code_data/LinearReg_ElasticNet.ipynb)
-* [ARIMA](https://github.com/cc6580/NYC_uber_pickup/blob/main/group11_code_data/timeseries_cc.ipynb)
-* [Neural Net](https://github.com/cc6580/NYC_uber_pickup/blob/main/group11_code_data/neural_network.ipynb)
+* Linear Regression: [LinearReg_ElasticNet.ipynb](https://github.com/cc6580/NYC_uber_pickup/blob/main/group11_code_data/LinearReg_ElasticNet.ipynb)
+* Elastic Net: [LinearReg_ElasticNet.ipynb](https://github.com/cc6580/NYC_uber_pickup/blob/main/group11_code_data/LinearReg_ElasticNet.ipynb)
+* ARIMA: [timeseries_cc.ipynb](https://github.com/cc6580/NYC_uber_pickup/blob/main/group11_code_data/timeseries_cc.ipynb)
+* Neural Net: [newral_network.ipynb](https://github.com/cc6580/NYC_uber_pickup/blob/main/group11_code_data/neural_network.ipynb)
 
 To improve the efficiency of our algorthm, we deployed the following performance improving techniques
 * line_profiler
