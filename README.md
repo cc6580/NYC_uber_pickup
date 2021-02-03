@@ -11,7 +11,7 @@ The goal for this research project is to analyze the pattern of the number of Ub
 * Linear Regression: [LinearReg_ElasticNet.ipynb](https://github.com/cc6580/NYC_uber_pickup/blob/main/group11_code_data/LinearReg_ElasticNet.ipynb)
 * Elastic Net: [LinearReg_ElasticNet.ipynb](https://github.com/cc6580/NYC_uber_pickup/blob/main/group11_code_data/LinearReg_ElasticNet.ipynb)
 * ARIMA: [timeseries_cc.ipynb](https://github.com/cc6580/NYC_uber_pickup/blob/main/group11_code_data/timeseries_cc.ipynb)
-* Neural Net: [newral_network.ipynb](https://github.com/cc6580/NYC_uber_pickup/blob/main/group11_code_data/neural_network.ipynb)
+* Neural Net: [neural_network.ipynb](https://github.com/cc6580/NYC_uber_pickup/blob/main/group11_code_data/neural_network.ipynb)
 
 To improve the efficiency of our algorthm, we deployed the following performance improving techniques
 * line_profiler
